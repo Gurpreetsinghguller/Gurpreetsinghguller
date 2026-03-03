@@ -46,12 +46,7 @@ I specialize in building reliable backend systems using Go, applying SOLID princ
 * SOLID Principles
 * Object-Oriented Programming (OOP)
 * Design Patterns
-
-### Tools
-
-* ELK Stack
-* Git
-
+  
 ---
 
 ## Software Architecture Fundamentals
@@ -93,8 +88,6 @@ I apply core architectural principles while designing systems:
 * Strategy
 * State Machine
 * Chain of Responsibility
-
-I apply these patterns in real-world systems to ensure flexibility, testability, and maintainability.
 
 ---
 
