@@ -17,6 +17,7 @@ I specialize in building reliable backend systems using Go, applying SOLID princ
 ### Backend
 
 * Microservices Architecture
+* Event Driven Architecture
 * REST APIs
 * gRPC
 * MQTT
@@ -46,6 +47,9 @@ I specialize in building reliable backend systems using Go, applying SOLID princ
 * SOLID Principles
 * Object-Oriented Programming (OOP)
 * Design Patterns
+* Gang Of Four (GoF)
+* Repository Pattern
+* CQRS (command query responsibility segregation)
   
 ---
 
