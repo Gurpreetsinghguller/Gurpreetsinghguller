@@ -42,7 +42,7 @@ I specialize in building reliable backend systems using Go, applying SOLID princ
 
 * Object-Oriented Analysis (OOA)
 * Domain-Driven Design (DDD)
-* Onion Architecture
+* Clean/Ports and Adapters / Onion Architecture
 * SOLID Principles
 * Object-Oriented Programming (OOP)
 * Design Patterns
