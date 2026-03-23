@@ -127,7 +127,9 @@ Experience building high-performance services with efficient concurrency handlin
 * High-Performance Go Applications
 
 ---
+## Certifications
 
+- 🏆 [Object Oriented Analysis and Design](https://drive.google.com/file/d/1bEbI2NKKtRYq_AJUCvP8t7bNNsGqGxCC/view?usp=sharing)
 ## Contact
 
 Open to challenging backend, distributed systems, and system architecture opportunities.
