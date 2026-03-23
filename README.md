@@ -36,8 +36,7 @@ I specialize in building reliable backend systems using Go, applying SOLID princ
 ### Databases
 
 * PostgreSQL
-* MySQL
-* NoSQL Databases
+* NoSQL Databases (MongoDB)
 
 ### Architecture & Design
 
